@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx watch Capitulo1-Introducao-a-algoritmos/binary-search"
+    "dev": "tsx watch Capitulo2-Ordenação-por-selecao/selection-sort"
   },
   "keywords": [],
   "author": "",
