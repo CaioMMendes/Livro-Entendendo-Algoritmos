@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx watch Capitulo2-Ordenação-por-selecao/selection-sort"
+    "dev": "tsx watch Capitulo4-Quicksort/4.3-highest-value.js"
   },
   "keywords": [],
   "author": "",
