@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx watch Capitulo4-Quicksort/4.4-recursive-binary-search.js"
+    "dev": "tsx watch Capitulo4-Quicksort/quick-sort.js"
   },
   "keywords": [],
   "author": "",
